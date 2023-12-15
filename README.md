@@ -1,9 +1,9 @@
 
 # Welcome to my profile
 
-I am currently studying penetration testing.
+I am a tester
 
-I also like doing some programminmg on the side, the main language that i am trying to learn right now is **C**.
+I also like doing some programming on the side, the main language that i am trying to learn right now is **C**.
 
 I also like using **python** sometimes.
 
